@@ -140,7 +140,7 @@ body {
   color: #1f2f56;
 }
 
-@media (min-width: 42em) {
+@media (min-width: 54em) {
   .section-summary {
     background-image: url(images/pattern-background-desktop.svg);
   }
